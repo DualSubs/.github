@@ -21,9 +21,9 @@
 | [功能列表](../../../DualSubs/wiki/🍿-DualSubs-for-🎦-Streaming-Media#功能列表) | [功能列表](../../../DualSubs-Netflix/wiki/🍿-DualSubs-for-🇳-Netflix#功能列表) | [功能列表](../../../DualSubs-YouTube/wiki/🍿-DualSubs-for-▶-YouTube#功能列表) |
 | [使用说明](../../../DualSubs/wiki/🍿-DualSubs-for-🎦-Streaming-Media#使用说明) | [使用说明](../../../DualSubs-Netflix/wiki/🍿-DualSubs-for-🇳-Netflix#使用说明) | [使用说明](../../../DualSubs-YouTube/wiki/🍿-DualSubs-for-▶-YouTube#使用说明) |
 | [安装链接](../../../DualSubs/wiki/🍿-DualSubs-for-🎦-Streaming-Media#安装链接) | [安装链接](../../../DualSubs-Netflix/wiki/🍿-DualSubs-for-🇳-Netflix#安装链接) | [安装链接](../../../DualSubs-YouTube/wiki/🍿-DualSubs-for-▶-YouTube#安装链接) |
-| 🆕新版<br>v0.7.x | 未发布 | 🆕新版<br>v0.5.x |
+| 🆕新版<br>v0.7.x | 未发布 | 🆕新版<br>v0.6.x |
 | [更新日志](../../../DualSubs/wiki/🍿-DualSubs-for-🎦-Streaming-Media#更新日志) | [更新日志](../../../DualSubs-Netflix/wiki/🍿-DualSubs-for-🇳-Netflix#更新日志) | [更新日志](../../../DualSubs-YouTube/wiki/🍿-DualSubs-for-▶-YouTube#更新日志) |
-| [说明/讨论](https://t.me/GetSomeFriesChannel/121) | 说明/讨论 | [说明/讨论](https://t.me/GetSomeFriesChannel/122/) |
+| [说明/讨论](https://t.me/GetSomeFriesChannel/121) | 说明/讨论 | [说明/讨论](https://t.me/GetSomeFriesChannel/165) |
 
 ---
 # How To
@@ -99,3 +99,8 @@
   * [@Koolson](https://github.com/Koolson)
   * [@LucaLin](https://github.com/LucaLin233)
   * [@Shawn](https://github.com/KOP-XIAO)
+  * [@shindgewongxj](https://github.com/shindgewongxj)
+  * [STASH NETWORKS LIMITED](https://github.com/STASH-NETWORKS-LIMITED)
+  * [@viannalau](https://github.com/StashNetworks)
+  * [@BlveRiv](https://github.com/Maasea)
+  * [@Choler](https://github.com/Choler)
