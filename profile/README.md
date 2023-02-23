@@ -21,7 +21,7 @@
 | [功能列表](../../../DualSubs/wiki/🍿-DualSubs-for-🎦-Streaming-Media#功能列表) | [功能列表](../../../DualSubs-Netflix/wiki/🍿-DualSubs-for-🇳-Netflix#功能列表) | [功能列表](../../../DualSubs-YouTube/wiki/🍿-DualSubs-for-▶-YouTube#功能列表) |
 | [使用说明](../../../DualSubs/wiki/🍿-DualSubs-for-🎦-Streaming-Media#使用说明) | [使用说明](../../../DualSubs-Netflix/wiki/🍿-DualSubs-for-🇳-Netflix#使用说明) | [使用说明](../../../DualSubs-YouTube/wiki/🍿-DualSubs-for-▶-YouTube#使用说明) |
 | [安装链接](../../../DualSubs/wiki/🍿-DualSubs-for-🎦-Streaming-Media#安装链接) | [安装链接](../../../DualSubs-Netflix/wiki/🍿-DualSubs-for-🇳-Netflix#安装链接) | [安装链接](../../../DualSubs-YouTube/wiki/🍿-DualSubs-for-▶-YouTube#安装链接) |
-| 🆕新版<br>v0.7.x | 未发布 | 🆕新版<br>v0.6.x |
+| v0.7.x | 未发布 | 🆕新版<br>v0.6.x |
 | [更新日志](../../../DualSubs/wiki/🍿-DualSubs-for-🎦-Streaming-Media#更新日志) | [更新日志](../../../DualSubs-Netflix/wiki/🍿-DualSubs-for-🇳-Netflix#更新日志) | [更新日志](../../../DualSubs-YouTube/wiki/🍿-DualSubs-for-▶-YouTube#更新日志) |
 | [说明/讨论](https://t.me/GetSomeFriesChannel/121) | 说明/讨论 | [说明/讨论](https://t.me/GetSomeFriesChannel/165) |
 
@@ -44,7 +44,8 @@
 
 |  供应商  |iOS/iPadOS|  tvOS  |  macOS  | Appx | Android | Web | 备注 |
 |   :-:   |   :-:   |   :-:   |   :-:   |   :-:   |   :-:   |   :-:   |   :-:   |
-| YouTube |   ☑️[^7]   |   ❌[^8]   |   N/A   |   N/A   |   ❓   |   ✅   |        |
+| YouTube |   [✅](https://apps.apple.com/hk/app/youtube/id544007664)   |   [❌](https://apps.apple.com/hk/app/youtube/id544007664?platform=appleTV)[^8]   |   N/A   |   N/A   |   ❓   |   ✅   |        |
+|YouTube TV|   [❓](https://apps.apple.com/us/app/youtube-tv/id1193350206)   |   [❓](https://apps.apple.com/us/app/youtube-tv/id1193350206?platform=appleTV)[^8]   |   N/A   |   N/A   |   ❓   |   ✅   |        |
 |Apple TV+|   [✅](https://apps.apple.com/hk/app/apple-tv/id1174078549)   |   [✅](https://apps.apple.com/hk/app/apple-tv/id1174078549?platform=appleTV)   |   ✅[^5]   |   N/A   |   ❓   |   [✅](https://tv.apple.com/)[^2]   |   Apple TV app中的订阅内容   |
 |Apple TV |   [✅](https://apps.apple.com/hk/app/apple-tv/id1174078549)[^2]   |   [✅](https://apps.apple.com/hk/app/apple-tv/id1174078549?platform=appleTV)[^2]   |   ✅[^2][^5]   |   N/A   |   ❓   |   N/A   |   Apple TV app中的购买与租借内容[^1]   |
 |Apple Fitness| [✅](https://apps.apple.com/cn/app/fitness/id1208224953)[^2] |   ✅[^2]   |   N/A   |   N/A   |   ❓   |   N/A   | [^1] |
