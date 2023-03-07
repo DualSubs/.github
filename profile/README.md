@@ -45,7 +45,7 @@
 |  供应商  |iOS/iPadOS|  tvOS  |  macOS  | Appx | Android | Web | 备注 |
 |   :-:   |   :-:   |   :-:   |   :-:   |   :-:   |   :-:   |   :-:   |   :-:   |
 | YouTube |   [✅](https://apps.apple.com/hk/app/youtube/id544007664)   |   [❌](https://apps.apple.com/hk/app/youtube/id544007664?platform=appleTV)[^8]   |   N/A   |   N/A   |   ❓   |   ✅   |        |
-|YouTube TV|   [❓](https://apps.apple.com/us/app/youtube-tv/id1193350206)   |   [❓](https://apps.apple.com/us/app/youtube-tv/id1193350206?platform=appleTV)[^8]   |   N/A   |   N/A   |   ❓   |   ✅   |        |
+|YouTube TV|   [✅](https://apps.apple.com/us/app/youtube-tv/id1193350206)[^1]   |   [❓](https://apps.apple.com/us/app/youtube-tv/id1193350206?platform=appleTV)[^8]   |   N/A   |   N/A   |   ❓   |   ✅   |        |
 |Apple TV+|   [✅](https://apps.apple.com/hk/app/apple-tv/id1174078549)   |   [✅](https://apps.apple.com/hk/app/apple-tv/id1174078549?platform=appleTV)   |   ✅[^5]   |   N/A   |   ❓   |   [✅](https://tv.apple.com/)[^2]   |   Apple TV app中的订阅内容   |
 |Apple TV |   [✅](https://apps.apple.com/hk/app/apple-tv/id1174078549)[^2]   |   [✅](https://apps.apple.com/hk/app/apple-tv/id1174078549?platform=appleTV)[^2]   |   ✅[^2][^5]   |   N/A   |   ❓   |   N/A   |   Apple TV app中的购买与租借内容[^1]   |
 |Apple Fitness| [✅](https://apps.apple.com/cn/app/fitness/id1208224953)[^2] |   ✅[^2]   |   N/A   |   N/A   |   ❓   |   N/A   | [^1] |
