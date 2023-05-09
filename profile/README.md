@@ -1,7 +1,7 @@
 # 🍿️ DualSubs
   * Enhanced & Dual Subtitles
   * 字幕增强及双语模块
-  * **Powered by [Chavy](https://github.com/chavyleung)‘s [Env.js](https://github.com/chavyleung/scripts/blob/master/Env.js) and [BoxJs](https://chavyleung.gitbook.io/boxjs/)**
+  * **Powered by [Chavy](https://github.com/chavyleung)‘s [Env.js](https://github.com/chavyleung/scripts/blob/master/Env.js) and [🧰 BoxJs](https://chavyleung.gitbook.io/boxjs/)**
   * 需要启用`重写`、`脚本`、`MitM`功能
   * 有问题请至Issue页面反馈
   * Telegram讨论组:[🍟 整点薯条](https://t.me/GetSomeFries)
@@ -9,7 +9,7 @@
 ---
 # 快速导航
   * 支持 🎈Loon(推荐), Surge(推荐), Stash, Shadowrocket, Quantumult X
-  * macOS 12.5.1, iOS 16.0, tvOS 15.6.1 测试通过
+  * macOS 13.3.1, iOS 16.4.1, tvOS 16.4 测试通过
   * 需要启用`重写`、`脚本`、`MitM`功能
   * 本项目可视化配置面板订阅及使用方法详见[🧰 BoxJs](../../../DualSubs/wiki/🧰-BoxJs)
   * 点击下方链接直达详细说明
@@ -46,9 +46,9 @@
 |   :-:   |   :-:   |   :-:   |   :-:   |   :-:   |   :-:   |   :-:   |   :-:   |
 | YouTube |   [✅](https://apps.apple.com/hk/app/youtube/id544007664)   |   [❌](https://apps.apple.com/hk/app/youtube/id544007664?platform=appleTV)[^8]   |   N/A   |   N/A   |   ❓   |   ✅   |        |
 |YouTube TV|   [✅](https://apps.apple.com/us/app/youtube-tv/id1193350206)[^1]   |   [❓](https://apps.apple.com/us/app/youtube-tv/id1193350206?platform=appleTV)[^8]   |   N/A   |   N/A   |   ❓   |   ✅   |        |
-|Apple TV+|   [✅](https://apps.apple.com/hk/app/apple-tv/id1174078549)   |   [✅](https://apps.apple.com/hk/app/apple-tv/id1174078549?platform=appleTV)   |   ✅[^5]   |   N/A   |   ❓   |   [✅](https://tv.apple.com/)[^2]   |   Apple TV app中的订阅内容   |
-|Apple TV |   [✅](https://apps.apple.com/hk/app/apple-tv/id1174078549)[^2]   |   [✅](https://apps.apple.com/hk/app/apple-tv/id1174078549?platform=appleTV)[^2]   |   ✅[^2][^5]   |   N/A   |   ❓   |   N/A   |   Apple TV app中的购买与租借内容[^1]   |
-|Apple Fitness| [✅](https://apps.apple.com/cn/app/fitness/id1208224953)[^2] |   ✅[^2]   |   N/A   |   N/A   |   ❓   |   N/A   | [^1] |
+|Apple TV+|   [☑️](https://apps.apple.com/hk/app/apple-tv/id1174078549)   |   [✅](https://apps.apple.com/hk/app/apple-tv/id1174078549?platform=appleTV)   |   ✅[^5]   |   N/A   |   ❓   |   [✅](https://tv.apple.com/)[^2]   |   Apple TV app中的订阅内容   |
+|Apple TV |   [☑️](https://apps.apple.com/hk/app/apple-tv/id1174078549)[^2]   |   [✅](https://apps.apple.com/hk/app/apple-tv/id1174078549?platform=appleTV)[^2]   |   ✅[^2][^5]   |   N/A   |   ❓   |   N/A   |   Apple TV app中的购买与租借内容[^1]   |
+|Apple Fitness| [☑️](https://apps.apple.com/cn/app/fitness/id1208224953)[^2] |   ✅[^2]   |   N/A   |   N/A   |   ❓   |   N/A   | [^1] |
 | Disney+ |   [✅](https://apps.apple.com/hk/app/disney/id1446075923)   |   [✅](https://apps.apple.com/hk/app/disney/id1446075923?platform=appleTV)   |   N/A   |   [✅](https://www.microsoft.com/zh-cn/p/disney/9nxqxxlfst89)   |   ✅   |   [✅](https://www.disneyplus.com/)   |        |
 |Prime Video|   [✅](https://apps.apple.com/hk/app/amazon-prime-video/id545519333)   |   [✅](https://apps.apple.com/hk/app/amazon-prime-video/id545519333?platform=appleTV)   |   [✅](https://apps.apple.com/hk/app/amazon-prime-video/id545519333)   |   [🔜](https://www.microsoft.com/zh-cn/p/amazon-prime-video-for-windows/9p6rc76msmmj?activetab=pivot:overviewtab)[^3]   |   🔜[^3]   |   [🔜](https://www.primevideo.com)[^3]   |   包含Prime Video Channel   |
 | HBO Max |   [☑️](https://apps.apple.com/us/app/hbo-max-stream-tv-movies/id971265422)[^4]   |   [✅](https://apps.apple.com/us/app/hbo-max-stream-tv-movies/id971265422?platform=appleTV)   |   N/A   |   [❓](https://www.microsoft.com/zh-cn/p/hbo-max/9pjj1k9dzmrs)   |   ❓   |   [☑️](https://play.hbomax.com)[^4]   |        |
@@ -68,7 +68,9 @@
 |         |         |         |         |         |         |        |        |
 
   [^1]: 此平台部分字幕为[隐藏字幕[CC]](https://zh.wikipedia.org/wiki/隱藏字幕)，整合于视频流无法提取，其他语言字幕正常。
-  [^2]: 此平台资源使用的域名`play.itunes.apple.com`与`App Store`登陆、验证、购买等功能共用域名，MitM可能造成无法访问，故默认未添加此域名，需要此平台双语的用户请自行添加`play.itunes.apple.com`至MitM域名列表，⚠️注意！首次播放时会先请求`play.itunes.apple.com`验证购买或订阅，此时`play.itunes.apple.com`不可`MitM`，需等到正常播放后，再将`play.itunes.apple.com`加入`MitM`列表。
+  [^2]: 此平台资源使用的域名`play.itunes.apple.com`与`App Store`登陆、验证、购买等功能共用域名，MitM可能造成无法访问，故默认未添加此域名，需要此平台双语的用户请自行添加`play.itunes.apple.com`至MitM域名列表。
+  [^2]: ⚠️注意！首次播放时会先请求`play.itunes.apple.com`验证购买或订阅，此时`play.itunes.apple.com`不可`MitM`，需等到正常播放后，再将`play.itunes.apple.com`加入`MitM`列表。
+  [^2]: ⚠️注意！`play.itunes.apple.com`于`iOS 16.4`后不再可以MitM，所以兼容性由` 完全支持✅`降级为`兼容☑️`
   [^3]: 此平台字幕采用[TTML2](https://www.w3.org/TR/2018/REC-ttml2-20181108/)格式字幕，暂不支持
   [^4]: 此平台字幕选项为硬编码，需要在BoxJs中对应平台的`字幕类型（兼容）`选项选择一个替换用字幕类型
   [^5]: 采用旧版`AVPlayerViewController`播放器UI界面，自定义字幕名称会被强制显示为固定名称，比如多个名称为`简体中文`的选项，依次为原始字幕选项及BoxJs中开启的字幕选项，除显示的名称固定外，字幕选项功能正常。
