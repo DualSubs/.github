@@ -15,21 +15,21 @@
   * 点击下方链接直达详细说明
   * 手机等竖屏设备可以👈左右👉划动下列表格查看更多模块
 
-| [🍿️ DualSubs:<br>🎦 Streaming Media](../../../DualSubs/wiki/🍿-DualSubs:-🎦-Streaming-Media) | [🍿️ DualSubs:<br>🇳 Netflix](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix) | [🍿️ DualSubs:<br>▶️ YouTube](../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube) |
-| :---: | :---: | :---: |
-| [简介](../../../DualSubs/wiki/🍿-DualSubs:-🎦-Streaming-Media#简介) | [简介](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix#简介) | [简介](.../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube#简介) |
-| [功能列表](../../../DualSubs/wiki/🍿-DualSubs:-🎦-Streaming-Media#功能列表) | [功能列表](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix#功能列表) | [功能列表](../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube#功能列表) |
-| [使用说明](../../../DualSubs/wiki/🍿-DualSubs:-🎦-Streaming-Media#使用说明) | [使用说明](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix#使用说明) | [使用说明](../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube#使用说明) |
-| [安装链接](../../../DualSubs/wiki/🍿-DualSubs:-🎦-Streaming-Media#安装链接) | [安装链接](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix#安装链接) | [安装链接](../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube#安装链接) |
-| v0.7.x | 未发布 | 🆕新版<br>v0.7.x |
-| [更新日志](../../../DualSubs/wiki/🍿-DualSubs:-🎦-Streaming-Media#更新日志) | [更新日志](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix#更新日志) | [更新日志](../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube#更新日志) |
-| [说明/讨论](https://t.me/GetSomeFriesChannel/121) | 说明/讨论 | [说明/讨论](https://t.me/GetSomeFriesChannel/165) |
+| [🍿️ DualSubs:<br>🎦 Universal](../../../Universal/wiki/🍿-DualSubs:-🎦-Universal) | [🍿️ DualSubs:<br>🇳 Netflix](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix) | [🍿️ DualSubs:<br>▶️ YouTube](../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube) || [~~🍿️ DualSubs:<br>🎦 Streaming Media~~](../../../DualSubs/wiki/🍿-DualSubs:-🎦-Streaming-Media) |
+| :---: | :---: | :---: | :---: | :---: |
+| [简介](../../../Universal/wiki/🍿-DualSubs:-🎦-Universal#简介) | [简介](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix#简介) | [简介](.../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube#简介) || [~~简介~~](../../../DualSubs/wiki/🍿-DualSubs:-🎦-Streaming-Media#简介) |
+| [功能列表](../../../Universal/wiki/🍿-DualSubs:-🎦-Universal#功能列表) | [功能列表](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix#功能列表) | [功能列表](../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube#功能列表) || [~~功能列表~~](../../../DualSubs/wiki/🍿-DualSubs:-🎦-Streaming-Media#功能列表) |
+| [使用说明](../../../Universal/wiki/🍿-DualSubs:-🎦-Universal#使用说明) | [使用说明](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix#使用说明) | [使用说明](../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube#使用说明) || [~~使用说明~~](../../../DualSubs/wiki/🍿-DualSubs:-🎦-Streaming-Media#使用说明) |
+| [安装链接](../../../Universal/wiki/🍿-DualSubs:-🎦-Universal#安装链接) | [安装链接](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix#安装链接) | [安装链接](../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube#安装链接) || [~~安装链接~~](../../../DualSubs/wiki/🍿-DualSubs:-🎦-Streaming-Media#安装链接) |
+| 🆕新版<br>v0.8.x | 未发布 | 🆕新版<br>v0.8.x || 🛑已终止<br>v0.7.x |
+| [更新日志](../../../Universal/wiki/🍿-DualSubs:-🎦-Universal#更新日志) | [更新日志](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix#更新日志) | [更新日志](../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube#更新日志) || [~~更新日志~~](../../../DualSubs/wiki/🍿-DualSubs:-🎦-Streaming-Media#更新日志) |
+| 说明/讨论 | 说明/讨论 | [说明/讨论](https://t.me/GetSomeFriesChannel/165) || [说明/讨论](https://t.me/GetSomeFriesChannel/121) |
 
 ---
 # How To
-  * [快速创建拥有代理服务器设置及MitM证书的描述文件](../../../DualSubs/wiki/快速创建拥有代理服务器设置及MitM证书的描述文件)
-  * [在Apple TV (tvOS) 上添加描述文件或MitM证书](../../../DualSubs/wiki/在Apple-TV-(tvOS)-上添加描述文件或MitM证书)
-  * [在BoxJs中清除DualSubs的设置或缓存](../../../DualSubs/wiki/在BoxJs中清除DualSubs的储存数据)
+  * [快速创建拥有代理服务器设置及MitM证书的描述文件](../../../Universal/wiki/快速创建拥有代理服务器设置及MitM证书的描述文件)
+  * [在Apple TV (tvOS) 上添加描述文件或MitM证书](../../../Universal/wiki/在Apple-TV-(tvOS)-上添加描述文件或MitM证书)
+  * [在BoxJs中清除DualSubs的设置或缓存](../../../Universal/wiki/在BoxJs中清除DualSubs的储存数据)
 
 ---
 # 支持列表
@@ -46,11 +46,12 @@
 |   :-:   |   :-:   |   :-:   |   :-:   |   :-:   |   :-:   |   :-:   |   :-:   |
 | YouTube |   [✅](https://apps.apple.com/hk/app/youtube/id544007664)   |   [❌](https://apps.apple.com/hk/app/youtube/id544007664?platform=appleTV)[^8]   |   N/A   |   N/A   |   ❓   |   ✅   |        |
 |YouTube TV|   [✅](https://apps.apple.com/us/app/youtube-tv/id1193350206)[^1]   |   [❓](https://apps.apple.com/us/app/youtube-tv/id1193350206?platform=appleTV)[^8]   |   N/A   |   N/A   |   ❓   |   ✅   |        |
-|Apple TV+|   [☑️](https://apps.apple.com/hk/app/apple-tv/id1174078549)[^10]   |   [✅](https://apps.apple.com/hk/app/apple-tv/id1174078549?platform=appleTV)[^9]   |   ✅[^5]   |   N/A   |   ❓   |   [✅](https://tv.apple.com/)[^2][^9][^10]   |   Apple TV app中的订阅内容   |
-|Apple TV |   [☑️](https://apps.apple.com/hk/app/apple-tv/id1174078549)[^2][^9][^10]   |   [✅](https://apps.apple.com/hk/app/apple-tv/id1174078549?platform=appleTV)[^2][^9]   |   ✅[^2][^5]   |   N/A   |   ❓   |   N/A   |   Apple TV app中的购买与租借内容[^1]   |
-|Apple Fitness| [☑️](https://apps.apple.com/cn/app/fitness/id1208224953)[^2][^9][^10] |   ✅[^2][^9]   |   N/A   |   N/A   |   ❓   |   N/A   | [^1] |
+|  TV+  |   [✅](https://apps.apple.com/hk/app/apple-tv/id1174078549)[^10]   |   [✅](https://apps.apple.com/hk/app/apple-tv/id1174078549?platform=appleTV)[^9]   |   ✅[^5]   |   N/A   |   ❓   |   [✅](https://tv.apple.com/)[^2][^9][^10]   |   Apple TV app中的订阅内容   |
+|  TV  |   [✅](https://apps.apple.com/hk/app/apple-tv/id1174078549)[^2][^9][^10]   |   [✅](https://apps.apple.com/hk/app/apple-tv/id1174078549?platform=appleTV)[^2][^9]   |   ✅[^2][^5]   |   N/A   |   ❓   |   N/A   |   Apple TV app中的购买与租借内容[^1]   |
+| Fitness| [☑️](https://apps.apple.com/cn/app/fitness/id1208224953)[^2][^9][^10] |   ✅[^2][^9]   |   N/A   |   N/A   |   ❓   |   N/A   | [^1] |
 | Disney+ |   [✅](https://apps.apple.com/hk/app/disney/id1446075923)   |   [✅](https://apps.apple.com/hk/app/disney/id1446075923?platform=appleTV)   |   N/A   |   [✅](https://www.microsoft.com/zh-cn/p/disney/9nxqxxlfst89)   |   ✅   |   [✅](https://www.disneyplus.com/)   |        |
 |Prime Video|   [✅](https://apps.apple.com/hk/app/amazon-prime-video/id545519333)   |   [✅](https://apps.apple.com/hk/app/amazon-prime-video/id545519333?platform=appleTV)   |   [✅](https://apps.apple.com/hk/app/amazon-prime-video/id545519333)   |   [🔜](https://www.microsoft.com/zh-cn/p/amazon-prime-video-for-windows/9p6rc76msmmj?activetab=pivot:overviewtab)[^3]   |   🔜[^3]   |   [🔜](https://www.primevideo.com)[^3]   |   包含Prime Video Channel   |
+| Max |   [☑️](https://apps.apple.com/us/app/max-stream-hbo-tv-movies/id1666653815)[^4]   |   [✅](https://apps.apple.com/us/app/max-stream-hbo-tv-movies/id1666653815?platform=appleTV)   |   N/A   |   [❓](https://www.microsoft.com/en-us/p/max/9nn5ntkvgl4r)   |   ❓   |   [☑️](https://www.max.com)[^4]   |        |
 | HBO Max |   [☑️](https://apps.apple.com/us/app/hbo-max-stream-tv-movies/id971265422)[^4]   |   [✅](https://apps.apple.com/us/app/hbo-max-stream-tv-movies/id971265422?platform=appleTV)   |   N/A   |   [❓](https://www.microsoft.com/zh-cn/p/hbo-max/9pjj1k9dzmrs)   |   ❓   |   [☑️](https://play.hbomax.com)[^4]   |        |
 |  Hulu   |   [✅](https://apps.apple.com/us/app/hulu-watch-tv-series-movies/id376510438)   |   [✅](https://apps.apple.com/us/app/hulu-watch-tv-series-movies/id376510438?platform=appleTV)   |   N/A   |   N/A   |   ❓   |   [🔜](https://www.hulu.com/)[^6]   |        |
 |Paramount+|   [✅](https://apps.apple.com/us/app/paramount/id530168168)   |   [✅](https://apps.apple.com/us/app/paramount/id530168168?platform=appleTV)   |   N/A   |   ❓   |   ❓   |   [✅](https://www.paramountplus.com/)   | 包含部分Live TV |
@@ -76,7 +77,7 @@
   [^7]: 此平台使用protobuf序列化数据，需要等待反序列化完成
   [^8]: 此平台并非使用HTTPS或HTTPS over TCP传输数据流，暂无MitM修改方法
   [^9]: ⚠️注意！首次播放时会先请求`play.itunes.apple.com`验证购买或订阅，此时`play.itunes.apple.com`不可`MitM`，需等到正常播放后，再将`play.itunes.apple.com`加入`MitM`列表。
-  [^10]: ⚠️注意！`play.itunes.apple.com`于`iOS 16.4`后不再可以MitM，所以兼容性由`完全支持✅`降级为`兼容☑️`
+  [^10]: ⚠️注意！因iOS16.4起MitM政策变更，TV及Fitness平台，需要配合[ iRingo: 📺 TV app](https://github.com/VirgilClyne/iRingo/wiki/📺-TV)恢复支持
 
 ---
 # 组件列表
