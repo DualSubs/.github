@@ -29,7 +29,7 @@
 | [安装链接](../../../Universal/wiki/🍿-DualSubs:-🎦-Universal#安装链接) | [安装链接](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix#安装链接) | [安装链接](../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube#安装链接) || [~~安装链接~~](../../../DualSubs/wiki/🍿-DualSubs:-🎦-Streaming-Media#安装链接) |
 | 🆕新版<br>v0.8.x | 🆕新版<br>v0.5.x | 🆕新版<br>v0.8.x || 🛑已终止<br>v0.7.x |
 | [更新日志](../../../Universal/wiki/🍿-DualSubs:-🎦-Universal#更新日志) | [更新日志](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix#更新日志) | [更新日志](../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube#更新日志) || [~~更新日志~~](../../../DualSubs/wiki/🍿-DualSubs:-🎦-Streaming-Media#更新日志) |
-| 说明/讨论 | 说明/讨论 | [说明/讨论](https://t.me/GetSomeFriesChannel/165) || [说明/讨论](https://t.me/GetSomeFriesChannel/121) |
+| [说明/讨论](https://t.me/GetSomeFriesChannel/208) | [说明/讨论](https://t.me/GetSomeFriesChannel/246) | [说明/讨论](https://t.me/GetSomeFriesChannel/248) || [说明/讨论](https://t.me/GetSomeFriesChannel/121) |
 
 ---
 # How To
