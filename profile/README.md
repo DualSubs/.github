@@ -16,21 +16,21 @@
 ---
 # 快速导航
   * 支持 [🎈Loon](https://apps.apple.com/app/loon/id1373567447)(推荐), [🌊Surge](https://apps.apple.com/app/surge-5/id1442620678)(推荐), [☘️Stash](https://apps.apple.com/app/stash-rule-based-proxy/id1596063349)(推荐), 🚀Shadowrocket, 🌀Quantumult X
-  * macOS 14.0, iOS 17.0.1, tvOS 17.0 测试通过
+  * macOS 14.2, iOS 17.2.1, tvOS 17.2 测试通过
   * 需要启用`重写`、`脚本`、`MitM（HTTPS解密）`功能
   * 本项目可视化配置面板订阅及使用方法详见[🧰 BoxJs](../../../DualSubs/wiki/🧰-BoxJs)
   * 点击下方链接直达详细说明
   * 手机等竖屏设备可以👈左右👉划动下列表格查看更多模块
 
-| [🍿️ DualSubs:<br>🎦 Universal](../../../Universal/wiki/🍿-DualSubs:-🎦-Universal) | [🍿️ DualSubs:<br>🇳 Netflix](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix) | [🍿️ DualSubs:<br>▶️ YouTube](../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube) || [~~🍿️ DualSubs:<br>🎦 Streaming Media~~](../../../Universal/wiki/🍿-DualSubs:-🎦-Streaming-Media) |
-| :---: | :---: | :---: | :---: | :---: |
-| [简介](../../../Universal/wiki/🍿-DualSubs:-🎦-Universal#简介) | [简介](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix#简介) | [简介](.../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube#简介) || [~~简介~~](../../../Universal/wiki/🍿-DualSubs:-🎦-Streaming-Media#简介) |
-| [功能列表](../../../Universal/wiki/🍿-DualSubs:-🎦-Universal#功能列表) | [功能列表](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix#功能列表) | [功能列表](../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube#功能列表) || [~~功能列表~~](../../../Universal/wiki/🍿-DualSubs:-🎦-Streaming-Media#功能列表) |
-| [使用说明](../../../Universal/wiki/🍿-DualSubs:-🎦-Universal#使用说明) | [使用说明](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix#使用说明) | [使用说明](../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube#使用说明) || [~~使用说明~~](../../../Universal/wiki/🍿-DualSubs:-🎦-Streaming-Media#使用说明) |
-| [安装链接](../../../Universal/wiki/🍿-DualSubs:-🎦-Universal#安装链接) | [安装链接](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix#安装链接) | [安装链接](../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube#安装链接) || [~~安装链接~~](../../../Universal/wiki/🍿-DualSubs:-🎦-Streaming-Media#安装链接) |
-| 🆕新版<br>v0.9.x | 🆕新版<br>v0.5.x | 🆕新版<br>v0.9.x || 🛑已终止<br>v0.7.x |
-| [更新日志](../../../Universal/wiki/🍿-DualSubs:-🎦-Universal#更新日志) | [更新日志](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix#更新日志) | [更新日志](../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube#更新日志) || [~~更新日志~~](../../../Universal/wiki/🍿-DualSubs:-🎦-Streaming-Media#更新日志) |
-| [说明/讨论](https://t.me/GetSomeFriesChannel/257) | [说明/讨论](https://t.me/GetSomeFriesChannel/246) | [说明/讨论](https://t.me/GetSomeFriesChannel/257) || [说明/讨论](https://t.me/GetSomeFriesChannel/121) |
+| [🍿️ DualSubs:<br>🎦 Universal](../../../Universal/wiki/🍿-DualSubs:-🎦-Universal) | [🍿️ DualSubs:<br>🇳 Netflix](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix) | [🍿️ DualSubs:<br>▶️ YouTube](../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube) | [🍿️ DualSubs:<br>🎵 Spotify](../../../Spotify/wiki/🍿-DualSubs:-🎵-Spotify) || [~~🍿️ DualSubs:<br>🎦 Streaming Media~~](../../../Universal/wiki/🍿-DualSubs:-🎦-Streaming-Media) |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| [简介](../../../Universal/wiki/🍿-DualSubs:-🎦-Universal#简介) | [简介](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix#简介) | [简介](.../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube#简介) | [简介](.../../../Spotify/wiki/🍿-DualSubs:-🎵-Spotify#简介) || [~~简介~~](../../../Universal/wiki/🍿-DualSubs:-🎦-Streaming-Media#简介) |
+| [功能列表](../../../Universal/wiki/🍿-DualSubs:-🎦-Universal#功能列表) | [功能列表](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix#功能列表) | [功能列表](../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube#功能列表) | [功能列表](../../../Spotify/wiki/🍿-DualSubs:-🎵-Spotify#功能列表) || [~~功能列表~~](../../../Universal/wiki/🍿-DualSubs:-🎦-Streaming-Media#功能列表) |
+| [使用说明](../../../Universal/wiki/🍿-DualSubs:-🎦-Universal#使用说明) | [使用说明](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix#使用说明) | [使用说明](../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube#使用说明) | [使用说明](../../../Spotify/wiki/🍿-DualSubs:-🎵-Spotify#使用说明) || [~~使用说明~~](../../../Universal/wiki/🍿-DualSubs:-🎦-Streaming-Media#使用说明) |
+| [安装链接](../../../Universal/wiki/🍿-DualSubs:-🎦-Universal#安装链接) | [安装链接](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix#安装链接) | [安装链接](../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube#安装链接) | [安装链接](../../../Spotify/wiki/🍿-DualSubs:-🎵-Spotify#安装链接) || [~~安装链接~~](../../../Universal/wiki/🍿-DualSubs:-🎦-Streaming-Media#安装链接) |
+| 🆕新版<br>v1.1.x | 🆕新版<br>v0.5.x | 🆕新版<br>v1.1.x | 🆕新版<br>v0.5.x || 🛑已终止<br>v0.7.x |
+| [更新日志](../../../Universal/wiki/🍿-DualSubs:-🎦-Universal#更新日志) | [更新日志](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix#更新日志) | [更新日志](../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube#更新日志) | [更新日志](../../../Spotify/wiki/🍿-DualSubs:-🎵-Spotify#更新日志) || [~~更新日志~~](../../../Universal/wiki/🍿-DualSubs:-🎦-Streaming-Media#更新日志) |
+| [说明/讨论](https://t.me/GetSomeFriesChannel/273) | [说明/讨论](https://t.me/GetSomeFriesChannel/246) | [说明/讨论](https://t.me/GetSomeFriesChannel/257) | [说明/讨论](https://t.me/GetSomeFriesChannel/276) || [说明/讨论](https://t.me/GetSomeFriesChannel/121) |
 
 ---
 # How To
