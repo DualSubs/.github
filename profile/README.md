@@ -16,21 +16,21 @@
 ---
 # 快速导航
   * 支持 [🎈Loon](https://apps.apple.com/app/loon/id1373567447)(推荐), [🌊Surge](https://apps.apple.com/app/surge-5/id1442620678)(推荐), [☘️Stash](https://apps.apple.com/app/stash-rule-based-proxy/id1596063349)(推荐), 🚀Shadowrocket, 🌀Quantumult X
-  * macOS 14.2, iOS 17.2.1, tvOS 17.2 测试通过
+  * macOS 14.2, iOS 17.3, tvOS 17.2 测试通过
   * 需要启用`重写`、`脚本`、`MitM（HTTPS解密）`功能
   * 本项目可视化配置面板订阅及使用方法详见[🧰 BoxJs](../../../DualSubs/wiki/🧰-BoxJs)
   * 点击下方链接直达详细说明
   * 手机等竖屏设备可以👈左右👉划动下列表格查看更多模块
 
-| [🍿️ DualSubs:<br>🎦 Universal](../../../Universal/wiki/🍿-DualSubs:-🎦-Universal) | [🍿️ DualSubs:<br>🇳 Netflix](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix) | [🍿️ DualSubs:<br>▶️ YouTube](../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube) | [🍿️ DualSubs:<br>🎵 Spotify](../../../Spotify/wiki/🍿-DualSubs:-🎵-Spotify) || [~~🍿️ DualSubs:<br>🎦 Streaming Media~~](../../../Universal/wiki/🍿-DualSubs:-🎦-Streaming-Media) |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| [简介](../../../Universal/wiki/🍿-DualSubs:-🎦-Universal#简介) | [简介](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix#简介) | [简介](.../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube#简介) | [简介](.../../../Spotify/wiki/🍿-DualSubs:-🎵-Spotify#简介) || [~~简介~~](../../../Universal/wiki/🍿-DualSubs:-🎦-Streaming-Media#简介) |
-| [功能列表](../../../Universal/wiki/🍿-DualSubs:-🎦-Universal#功能列表) | [功能列表](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix#功能列表) | [功能列表](../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube#功能列表) | [功能列表](../../../Spotify/wiki/🍿-DualSubs:-🎵-Spotify#功能列表) || [~~功能列表~~](../../../Universal/wiki/🍿-DualSubs:-🎦-Streaming-Media#功能列表) |
-| [使用说明](../../../Universal/wiki/🍿-DualSubs:-🎦-Universal#使用说明) | [使用说明](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix#使用说明) | [使用说明](../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube#使用说明) | [使用说明](../../../Spotify/wiki/🍿-DualSubs:-🎵-Spotify#使用说明) || [~~使用说明~~](../../../Universal/wiki/🍿-DualSubs:-🎦-Streaming-Media#使用说明) |
-| [安装链接](../../../Universal/wiki/🍿-DualSubs:-🎦-Universal#安装链接) | [安装链接](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix#安装链接) | [安装链接](../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube#安装链接) | [安装链接](../../../Spotify/wiki/🍿-DualSubs:-🎵-Spotify#安装链接) || [~~安装链接~~](../../../Universal/wiki/🍿-DualSubs:-🎦-Streaming-Media#安装链接) |
-| 🆕新版<br>v1.1.x | 🆕新版<br>v0.5.x | 🆕新版<br>v1.1.x | 🆕新版<br>v0.5.x || 🛑已终止<br>v0.7.x |
-| [更新日志](../../../Universal/wiki/🍿-DualSubs:-🎦-Universal#更新日志) | [更新日志](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix#更新日志) | [更新日志](../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube#更新日志) | [更新日志](../../../Spotify/wiki/🍿-DualSubs:-🎵-Spotify#更新日志) || [~~更新日志~~](../../../Universal/wiki/🍿-DualSubs:-🎦-Streaming-Media#更新日志) |
-| [说明/讨论](https://t.me/GetSomeFriesChannel/273) | [说明/讨论](https://t.me/GetSomeFriesChannel/246) | [说明/讨论](https://t.me/GetSomeFriesChannel/257) | [说明/讨论](https://t.me/GetSomeFriesChannel/276) || [说明/讨论](https://t.me/GetSomeFriesChannel/121) |
+| [🍿️ DualSubs:<br>🎦 Universal](../../../Universal/wiki/🍿-DualSubs:-🎦-Universal) | [🍿️ DualSubs:<br>🇳 Netflix](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix) | [🍿️ DualSubs:<br>▶️ YouTube (Music)](../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube) | [🍿️ DualSubs:<br>🎵 Spotify](../../../Spotify/wiki/🍿-DualSubs:-🎵-Spotify) |
+| :---: | :---: | :---: | :---: |
+| [简介](../../../Universal/wiki/🍿-DualSubs:-🎦-Universal#简介) | [简介](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix#简介) | [简介](.../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube#简介) | [简介](.../../../Spotify/wiki/🍿-DualSubs:-🎵-Spotify#简介) |
+| [功能列表](../../../Universal/wiki/🍿-DualSubs:-🎦-Universal#功能列表) | [功能列表](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix#功能列表) | [功能列表](../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube#功能列表) | [功能列表](../../../Spotify/wiki/🍿-DualSubs:-🎵-Spotify#功能列表) |
+| [使用说明](../../../Universal/wiki/🍿-DualSubs:-🎦-Universal#使用说明) | [使用说明](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix#使用说明) | [使用说明](../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube#使用说明) | [使用说明](../../../Spotify/wiki/🍿-DualSubs:-🎵-Spotify#使用说明) |
+| [安装链接](../../../Universal/wiki/🍿-DualSubs:-🎦-Universal#安装链接) | [安装链接](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix#安装链接) | [安装链接](../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube#安装链接) | [安装链接](../../../Spotify/wiki/🍿-DualSubs:-🎵-Spotify#安装链接) |
+| 🆕新版<br>v1.3.x | v0.5.x | 🆕新版<br>v1.2.x | 🆕新版<br>v1.3.x |
+| [更新日志](../../../Universal/wiki/🍿-DualSubs:-🎦-Universal#更新日志) | [更新日志](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix#更新日志) | [更新日志](../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube#更新日志) | [更新日志](../../../Spotify/wiki/🍿-DualSubs:-🎵-Spotify#更新日志) |
+| [说明/讨论](https://t.me/GetSomeFriesChannel/273) | [说明/讨论](https://t.me/GetSomeFriesChannel/246) | [说明/讨论](https://t.me/GetSomeFriesChannel/257) | [说明/讨论](https://t.me/GetSomeFriesChannel/279) |
 
 ---
 # How To
@@ -49,10 +49,11 @@
     * 无此类型: N/A
   * 提示: 以下图例可点击后直达下载链接或网站
 
-|  供应商  |iOS/iPadOS|  tvOS  |  macOS  | Appx | Android | Web | 备注 |
+|  供应商  |iOS/iPadOS|  tvOS  |  macOS  | Windows<br>Appx | Android | Web | 备注 |
 |   :-:   |   :-:   |   :-:   |   :-:   |   :-:   |   :-:   |   :-:   |   :-:   |
-| ▶ YouTube |   [✅](https://apps.apple.com/hk/app/youtube/id544007664)   |   [❌](https://apps.apple.com/hk/app/youtube/id544007664?platform=appleTV)[^1]   |   N/A   |   N/A   |   ❓   |   ✅   |        |
+| ▶ YouTube |   [✅](https://apps.apple.com/hk/app/youtube/id544007664)   |   [❌](https://apps.apple.com/hk/app/youtube/id544007664?platform=appleTV)[^1]   |   N/A   |   N/A   |   ❓   |   ✅   |   包含YouTube Music   |
 |▶ YouTube TV|   [✅](https://apps.apple.com/us/app/youtube-tv/id1193350206)[^8]   |   [❓](https://apps.apple.com/us/app/youtube-tv/id1193350206?platform=appleTV)[^1]   |   N/A   |   N/A   |   ❓   |   ✅   |        |
+| 🎵 Spotify |   [✅](https://apps.apple.com/tw/app/spotify-music-and-podcasts/id324684580)   |   [✅](https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580?platform=appleTV)   |   [✅](https://www.spotify.com/download)   |   [✅](https://apps.microsoft.com/detail/9NCBCSZSJRSB)   |   [❓](https://play.google.com/store/apps/details?id=com.spotify.music)   |   [✅](https://www.spotify.com)   |   支持播客逐字稿翻译   |
 | 🇳 Netflix |   [☑️](https://apps.apple.com/us/app/netflix/id363590051)[^7]   |   [☑️](https://apps.apple.com/us/app/youtube-tv/id1193350206?platform=appleTV)[^7]   |   N/A   |   [❓](https://apps.microsoft.com/store/detail/netflix/9WZDNCRFJ3TJ)   |   [❓](https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en_US)   |   [✅](https://www.netflix.com)[^3][^7]   |        |
 |  TV+  |   [✅](https://apps.apple.com/hk/app/apple-tv/id1174078549)[^10]   |   [✅](https://apps.apple.com/hk/app/apple-tv/id1174078549?platform=appleTV)[^9]   |   ✅[^5]   |   N/A   |   ❓   |   [✅](https://tv.apple.com/)[^2][^9][^10]   |   Apple TV app中的订阅内容<br>包含[MLS Season Pass](https://tv.apple.com/us/channel/mls-season-pass/tvs.sbd.7000)<br>包含部分录制体育节目   |
 |  TV  |   [✅](https://apps.apple.com/hk/app/apple-tv/id1174078549)[^2][^9][^10]   |   [✅](https://apps.apple.com/hk/app/apple-tv/id1174078549?platform=appleTV)[^2][^9]   |   ✅[^2][^5]   |   N/A   |   ❓   |   N/A   |   Apple TV app中的购买与租借内容[^8]   |
@@ -93,9 +94,9 @@
 ---
 # 组件列表
 
-| [getENV](https://github.com/VirgilClyne/GetSomeFries/tree/main/function/getENV) | [URL]([../../../VirgilClyne/GetSomeFries/tree/main/function/](https://github.com/VirgilClyne/GetSomeFries/tree/main/function/)URL) |  [WebVTT](../../../WebVTT) | [XML](../../../XML) | [TTML](../../../TTML) | [SSA](../../../SSA) | [SubsLib](../../../SubsLib) |
+| [ENV](https://github.com/NanoCat-Me/ENV) | [URL](https://github.com/NanoCat-Me/URI) | [XML](https://github.com/NanoCat-Me/XML) |  [WebVTT](../../../WebVTT) | [LRC](../../../LRC) | [SSA](../../../SSA) | [SubsLib](../../../SubsLib) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| an Persistent Store Read Tool based JavaScript | an URL to JSON Converter based JavaScript | an WebVTT to JSON Converter based JavaScript | an XML to JSON Converter based JavaScript | an TTML2 to JSON Converter based JavaScript | an SSA&ASS to JSON Converter based JavaScript | WebVTT & SRT Subtitles Library |
+| an Universal Enviroment based JavaScript | an URL to JSON Converter based JavaScript | an XML to JSON Converter based JavaScript | an WebVTT to JSON Converter based JavaScript | an LRC to JSON Converter based JavaScript | an SSA&ASS to JSON Converter based JavaScript | WebVTT & SRT Subtitles Library |
 
 ---
 # 鸣谢
