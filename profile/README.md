@@ -41,8 +41,8 @@
 ---
 # 支持列表
   * 图例:
-    * 完全支持: ✅
-    * 兼容: ☑️
+    * 完全支持: ✅ (可在 app 内`字幕选项`进行字幕选择与切换)
+    * 兼容: ☑️ (需在 [🧰 BoxJs](../../../DualSubs/wiki/🧰-BoxJs) 中进行字幕选择与切换)
     * 未来会支持: 🔜
     * 不明/未测试: ❓
     * 不支持: ❌
@@ -54,12 +54,12 @@
 | ▶ YouTube |   [✅](https://apps.apple.com/hk/app/youtube/id544007664)   |   [❌](https://apps.apple.com/hk/app/youtube/id544007664?platform=appleTV)[^1]   |   N/A   |   N/A   |   ❓   |   ✅   |   包含YouTube Music   |
 |▶ YouTube TV|   [✅](https://apps.apple.com/us/app/youtube-tv/id1193350206)[^8]   |   [❓](https://apps.apple.com/us/app/youtube-tv/id1193350206?platform=appleTV)[^1]   |   N/A   |   N/A   |   ❓   |   ✅   |        |
 | 🎵 Spotify |   [✅](https://apps.apple.com/tw/app/spotify-music-and-podcasts/id324684580)   |   [✅](https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580?platform=appleTV)   |   [✅](https://www.spotify.com/download)   |   [✅](https://apps.microsoft.com/detail/9NCBCSZSJRSB)   |   [❓](https://play.google.com/store/apps/details?id=com.spotify.music)   |   [✅](https://www.spotify.com)   |   支持播客逐字稿翻译   |
-| 🇳 Netflix |   [☑️](https://apps.apple.com/us/app/netflix/id363590051)[^7]   |   [☑️](https://apps.apple.com/us/app/youtube-tv/id1193350206?platform=appleTV)[^7]   |   N/A   |   [❓](https://apps.microsoft.com/store/detail/netflix/9WZDNCRFJ3TJ)   |   [❓](https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en_US)   |   [✅](https://www.netflix.com)[^3][^7]   |        |
+| 🇳 Netflix |   [☑️](https://apps.apple.com/us/app/netflix/id363590051)[^7]   |   [☑️](https://apps.apple.com/us/app/youtube-tv/id1193350206?platform=appleTV)[^7]   |   N/A   |   [☑️](https://apps.microsoft.com/store/detail/netflix/9WZDNCRFJ3TJ)[^3]   |   [❓](https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en_US)   |   [☑️](https://www.netflix.com)[^3][^7]   |        |
 |  TV+  |   [✅](https://apps.apple.com/hk/app/apple-tv/id1174078549)[^10]   |   [✅](https://apps.apple.com/hk/app/apple-tv/id1174078549?platform=appleTV)[^9]   |   ✅[^5]   |   N/A   |   ❓   |   [✅](https://tv.apple.com/)[^2][^9][^10]   |   Apple TV app中的订阅内容<br>包含[MLS Season Pass](https://tv.apple.com/us/channel/mls-season-pass/tvs.sbd.7000)<br>包含部分录制体育节目   |
 |  TV  |   [✅](https://apps.apple.com/hk/app/apple-tv/id1174078549)[^2][^9][^10]   |   [✅](https://apps.apple.com/hk/app/apple-tv/id1174078549?platform=appleTV)[^2][^9]   |   ✅[^2][^5]   |   N/A   |   ❓   |   N/A   |   Apple TV app中的购买与租借内容[^8]   |
 | Fitness| [☑️](https://apps.apple.com/cn/app/fitness/id1208224953)[^2][^9][^10] |   ✅[^2][^9]   |   N/A   |   N/A   |   ❓   |   N/A   | [^8] |
 | Disney+ |   [✅](https://apps.apple.com/hk/app/disney/id1446075923)   |   [✅](https://apps.apple.com/hk/app/disney/id1446075923?platform=appleTV)   |   N/A   |   [✅](https://www.microsoft.com/zh-cn/p/disney/9nxqxxlfst89)   |   ✅   |   [✅](https://www.disneyplus.com/)   |   包含[Hulu Hub](https://thewaltdisneycompany.com/hulu-on-disney-beta-launch/)   |
-|Prime Video|   [✅](https://apps.apple.com/hk/app/amazon-prime-video/id545519333)   |   [✅](https://apps.apple.com/hk/app/amazon-prime-video/id545519333?platform=appleTV)   |   [✅](https://apps.apple.com/hk/app/amazon-prime-video/id545519333)   |   [🔜](https://www.microsoft.com/zh-cn/p/amazon-prime-video-for-windows/9p6rc76msmmj?activetab=pivot:overviewtab)[^3]   |   🔜[^3]   |   [🔜](https://www.primevideo.com)[^3]   |   包含Prime Video Channel   |
+|Prime Video|   [✅](https://apps.apple.com/hk/app/amazon-prime-video/id545519333)   |   [✅](https://apps.apple.com/hk/app/amazon-prime-video/id545519333?platform=appleTV)   |   [✅](https://apps.apple.com/hk/app/amazon-prime-video/id545519333)   |   [✅](https://www.microsoft.com/zh-cn/p/amazon-prime-video-for-windows/9p6rc76msmmj?activetab=pivot:overviewtab)[^3]   |   🔜[^3]   |   [✅](https://www.primevideo.com)[^3]   |   包含Prime Video Channel   |
 | Max |   [☑️](https://apps.apple.com/us/app/max-stream-hbo-tv-movies/id1666653815)[^4]   |   [✅](https://apps.apple.com/us/app/max-stream-hbo-tv-movies/id1666653815?platform=appleTV)   |   N/A   |   [❓](https://www.microsoft.com/en-us/p/max/9nn5ntkvgl4r)   |   ❓   |   [☑️](https://www.max.com)[^4]   |        |
 | HBO Max |   [☑️](https://apps.apple.com/us/app/hbo-max-stream-tv-movies/id971265422)[^4]   |   [✅](https://apps.apple.com/us/app/hbo-max-stream-tv-movies/id971265422?platform=appleTV)   |   N/A   |   [❓](https://www.microsoft.com/zh-cn/p/hbo-max/9pjj1k9dzmrs)   |   ❓   |   [☑️](https://play.hbomax.com)[^4]   |        |
 |  Hulu   |   [✅](https://apps.apple.com/us/app/hulu-watch-tv-series-movies/id376510438)   |   [✅](https://apps.apple.com/us/app/hulu-watch-tv-series-movies/id376510438?platform=appleTV)   |   N/A   |   N/A   |   ❓   |   [🔜](https://www.hulu.com/)[^6]   |        |
