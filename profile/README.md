@@ -1,36 +1,48 @@
-# 🍿️ DualSubs
+# [🍿️ DualSubs](https://DualSubs.github.io/)
   * Enhanced & Dual Subtitles
   * 字幕增强及双语模块
-  * **Powered by [Chavy](https://github.com/chavyleung)‘s [Env.js](https://github.com/chavyleung/scripts/blob/master/Env.js) and [🧰 BoxJs](https://chavyleung.gitbook.io/boxjs/)**
-  * 需要启用`重写`、`脚本`、`MitM`功能
-  * 有问题请至Issue页面反馈
+  * **Powered by [Chavy](https://github.com/chavyleung)‘s [BoxJs](https://chavyleung.gitbook.io/boxjs/)**
+  * 有问题请至[讨论](https://github.com/orgs/DualSubs/discussions)反馈
+  * Telegram频道:[🍟 整点薯条](https://t.me/GetSomeFriesChannel)
   * Telegram讨论组:[🍟 整点薯条](https://t.me/GetSomeFries)
+
 ---
 # 广而告之
   * 如果您觉得本项目便捷好用
-  * 欢迎关注我的B站直播间支持工作
-  * 每晚19:00(UTC+8)左右开播（大概
-  * [【薯条_Official的直播间-哔哩哔哩直播】](https://b23.tv/1LeNwhE)
-  * [【薯条_Official的个人空间-哔哩哔哩】](https://b23.tv/Z6GIBAE)
+  * 请通过我的爱发电打赏: https://afdian.com/a/HashBrown
+  * ~~欢迎关注我的B站直播间支持工作~~
+  * ~~每晚19:00(UTC+8)左右开播（大概~~
+  * [~~【薯条_Official的直播间-哔哩哔哩直播】~~](https://b23.tv/1LeNwhE)
+  * [~~【薯条_Official的个人空间-哔哩哔哩】~~](https://b23.tv/Z6GIBAE)
 
 ---
 # 快速导航
-  * 支持 [🎈Loon](https://apps.apple.com/app/loon/id1373567447)(推荐), [🌊Surge](https://apps.apple.com/app/surge-5/id1442620678)(推荐), [☘️Stash](https://apps.apple.com/app/stash-rule-based-proxy/id1596063349)(推荐), 🚀Shadowrocket, 🌀Quantumult X
-  * macOS 14.2, iOS 17.3, tvOS 17.2 测试通过
+  * macOS 15, macOS 12.3, iOS 18, iOS 16, iOS 15.6, iOS 14.8, watchOS 11, watchOS 9 测试通过
+  * 如无特别声明，均适用于iOS/iPadOS/macOS/watchOS，模块间互无依赖，均可单独或搭配使用
   * 需要启用`重写`、`脚本`、`MitM（HTTPS解密）`功能
-  * 本项目可视化配置面板订阅及使用方法详见[🧰 BoxJs](../../../DualSubs/wiki/🧰-BoxJs)
+  * 本项目可视化配置面板订阅及使用方法详见[🧰 BoxJs](../../../../BoxJs/wiki)
   * 点击下方链接直达详细说明
   * 手机等竖屏设备可以👈左右👉划动下列表格查看更多模块
 
-| [🍿️ DualSubs:<br>🎦 Universal](../../../Universal/wiki/🍿-DualSubs:-🎦-Universal) | [🍿️ DualSubs:<br>🇳 Netflix](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix) | [🍿️ DualSubs:<br>▶️ YouTube (Music)](../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube) | [🍿️ DualSubs:<br>🎵 Spotify](../../../Spotify/wiki/🍿-DualSubs:-🎵-Spotify) || [🍿️ DualSubs:<br>➕ AddOn](../../../AddOn/wiki/🍿-DualSubs:-➕-AddOn) |
+## 支持的 app
+| 🎈<br/>Loon | 🌊<br/>Surge | ☘️<br/>Stash |🐿️<br/>Egern | 🌀<br/>Quantumult X | 🚀<br/>Shadowrocket |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| [简介](../../../Universal/wiki/🍿-DualSubs:-🎦-Universal#简介) | [简介](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix#简介) | [简介](.../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube#简介) | [简介](.../../../Spotify/wiki/🍿-DualSubs:-🎵-Spotify#简介) || [简介](.../../../AddOn/wiki/🍿-DualSubs:-➕-AddOn#简介) |
-| [功能列表](../../../Universal/wiki/🍿-DualSubs:-🎦-Universal#功能列表) | [功能列表](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix#功能列表) | [功能列表](../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube#功能列表) | [功能列表](../../../Spotify/wiki/🍿-DualSubs:-🎵-Spotify#功能列表) || [功能列表](../../../AddOn/wiki/🍿-DualSubs:-➕-AddOn#功能列表) |
-| [使用说明](../../../Universal/wiki/🍿-DualSubs:-🎦-Universal#使用说明) | [使用说明](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix#使用说明) | [使用说明](../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube#使用说明) | [使用说明](../../../Spotify/wiki/🍿-DualSubs:-🎵-Spotify#使用说明) || [使用说明](../../../AddOn/wiki/🍿-DualSubs:-➕-AddOn#使用说明) |
-| [安装链接](../../../Universal/wiki/🍿-DualSubs:-🎦-Universal#安装链接) | [安装链接](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix#安装链接) | [安装链接](../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube#安装链接) | [安装链接](../../../Spotify/wiki/🍿-DualSubs:-🎵-Spotify#安装链接) || [安装链接](../../../AddOn/wiki/🍿-DualSubs:-➕-AddOn#安装链接) |
-| 🆕新版<br>v1.3.x | v0.5.x | 🆕新版<br>v1.2.x | 🆕新版<br>v1.3.x ||🆕微软翻译 v1.0.x<br>More...|
-| [更新日志](../../../Universal/wiki/🍿-DualSubs:-🎦-Universal#更新日志) | [更新日志](../../../Netflix/wiki/🍿-DualSubs:-🇳-Netflix#更新日志) | [更新日志](../../../YouTube/wiki/🍿-DualSubs:-▶-YouTube#更新日志) | [更新日志](../../../Spotify/wiki/🍿-DualSubs:-🎵-Spotify#更新日志) || [更新日志](../../../AddOn/wiki/🍿-DualSubs:-➕-AddOn#更新日志) |
-| [说明/讨论](https://t.me/GetSomeFriesChannel/273) | [说明/讨论](https://t.me/GetSomeFriesChannel/246) | [说明/讨论](https://t.me/GetSomeFriesChannel/257) | [说明/讨论](https://t.me/GetSomeFriesChannel/279) || [说明/讨论](https://t.me/GetSomeFriesChannel/273) |
+| 推荐 | 推荐 | 推荐 | 兼容 | 兼容 | 部分兼容 |
+| [nsloon.app](https://nsloon.app/) | [nssurge.com](https://nssurge.com/) | [stash.ws](https://stash.ws/) | [egernapp.com](https://egernapp.com/) | N/A | N/A |
+
+## 官方网站: [DualSubs.github.io](https://DualSubs.github.io/)
+| [🎦<br/>Universal](https://DualSubs.github.io/guide/universal) | [🇳<br/>Netflix](https://DualSubs.github.io/guide/netflix) | [▶️<br/>YouTube (Music)](https://DualSubs.github.io/guide/youtube) | [🎵<br/>Spotify](https://DualSubs.github.io/guide/spotify) || [➕<br/>AddOn](https://DualSubs.github.io/guide/addon) | [🧰<br/>BoxJs](https://DualSubs.github.io/guide/box-js) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 流媒体平台通用 | Netflix 专用 | YouTube (Music) 专用 | Spotify 专用 || 其他插件 | 可视化配置面板 |
+
+## Wiki 链接
+<details>
+<summary>已归档</summary>
+
+| [🎦<br/>Universal](../../../../Universal/wiki) | [🇳<br/>Netflix](../../../../Netflix/wiki) | [▶️<br/>YouTube (Music)](../../../../YouTube/wiki) | [🎵<br/>Spotify](../../../../Spotify/wiki) || [➕<br/>AddOn](../../../../AddOn/wiki) | [🧰<br/>AddOn](../../../../BoxJs/wiki) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 流媒体平台通用 | Netflix 专用 | YouTube (Music) 专用 | Spotify 专用 || 其他插件 | 可视化配置面板 |
+</details>
 
 ---
 # How To
@@ -42,20 +54,20 @@
 # 支持列表
   * 图例:
     * 完全支持: ✅ (可在 app 内`字幕选项`进行字幕选择与切换)
-    * 兼容: ☑️ (需在 [🧰 BoxJs](../../../DualSubs/wiki/🧰-BoxJs) 中进行字幕选择与切换)
+    * 兼容: ☑️ (需在 [🧰 BoxJs](../../../../BoxJs/wiki) 中进行字幕选择与切换)
     * 未来会支持: 🔜
     * 不明/未测试: ❓
     * 不支持: ❌
     * 无此类型: N/A
   * 提示: 以下图例可点击后直达下载链接或网站
 
-|  供应商  |iOS/iPadOS|  tvOS  |  macOS  | Windows<br>Appx | Android | Web | 备注 |
+|  供应商  |iOS/iPadOS|  tvOS  |  macOS  | Windows<br/>Appx | Android | Web | 备注 |
 |   :-:   |   :-:   |   :-:   |   :-:   |   :-:   |   :-:   |   :-:   |   :-:   |
 | ▶ YouTube |   [✅](https://apps.apple.com/hk/app/youtube/id544007664)   |   [❌](https://apps.apple.com/hk/app/youtube/id544007664?platform=appleTV)[^1]   |   N/A   |   N/A   |   ❓   |   ✅   |   包含YouTube Music   |
 |▶ YouTube TV|   [✅](https://apps.apple.com/us/app/youtube-tv/id1193350206)[^8]   |   [❓](https://apps.apple.com/us/app/youtube-tv/id1193350206?platform=appleTV)[^1]   |   N/A   |   N/A   |   ❓   |   ✅   |        |
 | 🎵 Spotify |   [✅](https://apps.apple.com/tw/app/spotify-music-and-podcasts/id324684580)   |   [✅](https://apps.apple.com/us/app/spotify-music-and-podcasts/id324684580?platform=appleTV)   |   [✅](https://www.spotify.com/download)   |   [✅](https://apps.microsoft.com/detail/9NCBCSZSJRSB)   |   [❓](https://play.google.com/store/apps/details?id=com.spotify.music)   |   [✅](https://www.spotify.com)   |   支持播客逐字稿翻译   |
 | 🇳 Netflix |   [☑️](https://apps.apple.com/us/app/netflix/id363590051)[^7]   |   [☑️](https://apps.apple.com/us/app/youtube-tv/id1193350206?platform=appleTV)[^7]   |   N/A   |   [☑️](https://apps.microsoft.com/store/detail/netflix/9WZDNCRFJ3TJ)[^3]   |   [❓](https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en_US)   |   [☑️](https://www.netflix.com)[^3][^7]   |        |
-|  TV+  |   [✅](https://apps.apple.com/hk/app/apple-tv/id1174078549)[^10]   |   [✅](https://apps.apple.com/hk/app/apple-tv/id1174078549?platform=appleTV)[^9]   |   ✅[^5]   |   N/A   |   ❓   |   [✅](https://tv.apple.com/)[^2][^9][^10]   |   Apple TV app中的订阅内容<br>包含[MLS Season Pass](https://tv.apple.com/us/channel/mls-season-pass/tvs.sbd.7000)<br>包含部分录制体育节目   |
+|  TV+  |   [✅](https://apps.apple.com/hk/app/apple-tv/id1174078549)[^10]   |   [✅](https://apps.apple.com/hk/app/apple-tv/id1174078549?platform=appleTV)[^9]   |   ✅[^5]   |   N/A   |   ❓   |   [✅](https://tv.apple.com/)[^2][^9][^10]   |   Apple TV app中的订阅内容<br/>包含[MLS Season Pass](https://tv.apple.com/us/channel/mls-season-pass/tvs.sbd.7000)<br/>包含部分录制体育节目   |
 |  TV  |   [✅](https://apps.apple.com/hk/app/apple-tv/id1174078549)[^2][^9][^10]   |   [✅](https://apps.apple.com/hk/app/apple-tv/id1174078549?platform=appleTV)[^2][^9]   |   ✅[^2][^5]   |   N/A   |   ❓   |   N/A   |   Apple TV app中的购买与租借内容[^8]   |
 | Fitness| [☑️](https://apps.apple.com/cn/app/fitness/id1208224953)[^2][^9][^10] |   ✅[^2][^9]   |   N/A   |   N/A   |   ❓   |   N/A   | [^8] |
 | Disney+ |   [✅](https://apps.apple.com/hk/app/disney/id1446075923)   |   [✅](https://apps.apple.com/hk/app/disney/id1446075923?platform=appleTV)   |   N/A   |   [✅](https://www.microsoft.com/zh-cn/p/disney/9nxqxxlfst89)   |   ✅   |   [✅](https://www.disneyplus.com/)   |   包含[Hulu Hub](https://thewaltdisneycompany.com/hulu-on-disney-beta-launch/)   |
@@ -65,7 +77,7 @@
 |  Hulu   |   [✅](https://apps.apple.com/us/app/hulu-watch-tv-series-movies/id376510438)   |   [✅](https://apps.apple.com/us/app/hulu-watch-tv-series-movies/id376510438?platform=appleTV)   |   N/A   |   N/A   |   ❓   |   [🔜](https://www.hulu.com/)[^6]   |        |
 |Paramount+|   [✅](https://apps.apple.com/us/app/paramount/id530168168)   |   [✅](https://apps.apple.com/us/app/paramount/id530168168?platform=appleTV)   |   N/A   |   ❓   |   ❓   |   [✅](https://www.paramountplus.com/)   | 包含部分Live TV |
 |Discovery+|   [❌](https://apps.apple.com/us/app/discovery-stream-tv-shows/id1498327873)[^8]   |   [❓](https://apps.apple.com/us/app/discovery-stream-tv-shows/id1498327873?platform=appleTV)   |   ❓   |   ❓   |   ❓   |   [❌](https://www.discoveryplus.com/)[^8]   |        |
-|Discovery+<br>Philippines|   [✅](https://apps.apple.com/ph/app/discovery-stream-tv-shows/id1574345720)   |   ❓   |   ❓   |   ❓   |   ❓   |   [✅](https://www.discoveryplus.com/ph/)   |        |
+|Discovery+<br/>Philippines|   [✅](https://apps.apple.com/ph/app/discovery-stream-tv-shows/id1574345720)   |   ❓   |   ❓   |   ❓   |   ❓   |   [✅](https://www.discoveryplus.com/ph/)   |        |
 |Peacock TV|   [☑️](https://apps.apple.com/us/app/peacock-tv-stream-tv-movies/id1508186374)[^4]   |   [❓](https://apps.apple.com/us/app/peacock-tv-stream-tv-movies/id1508186374?platform=appleTV)   |   N/A   |   [❓](https://www.microsoft.com/zh-cn/p/peacocktv/9pl67r4p9pg5?activetab=pivot:overviewtab)   |   ❓   |   [☑️](https://www.peacocktv.com/)[^4]   |        |
 |  fuboTV  |   [✅](https://apps.apple.com/us/app/fubotv-watch-live-sports-tv/id905401434)   |   [✅](https://apps.apple.com/us/app/fubotv-watch-live-sports-tv/id905401434?platform=appleTV)   |   N/A   |   ❓   |   ❓   |   [✅](https://www.fubo.tv/)   | 仅点播(On Demand)节目 |
 |   TED   |   [☑️](https://apps.apple.com/hk/app/ted/id376183339)   |   [✅](https://apps.apple.com/hk/app/ted/id376183339?platform=appleTV)   |   N/A   |   ❓   |   ❓   |   [☑️](https://www.ted.com)   |        |
@@ -95,29 +107,30 @@
 ---
 # 组件列表
 
-| [ENV](https://github.com/NanoCat-Me/ENV) | [URL](https://github.com/NanoCat-Me/URI) | [XML](https://github.com/NanoCat-Me/XML) |  [WebVTT](../../../WebVTT) | [LRC](../../../LRC) | [SSA](../../../SSA) | [SubsLib](../../../SubsLib) |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| an Universal Enviroment based JavaScript | an URL to JSON Converter based JavaScript | an XML to JSON Converter based JavaScript | an WebVTT to JSON Converter based JavaScript | an LRC to JSON Converter based JavaScript | an SSA&ASS to JSON Converter based JavaScript | WebVTT & SRT Subtitles Library |
+| [utils](https://github.com/NanoCat-Me/utils) | [XML](https://github.com/NanoCat-Me/XML) |  [WebVTT](../../../WebVTT) | [LRC](../../../LRC) | [SSA](../../../SSA) | [SubsLib](../../../SubsLib) |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| an Universal Enviroment based JavaScript | an XML to JSON Converter based JavaScript | an WebVTT to JSON Converter based JavaScript | an LRC to JSON Converter based JavaScript | an SSA&ASS to JSON Converter based JavaScript | WebVTT & SRT Subtitles Library |
 
 ---
 # 鸣谢
-* 排名不分先后
-  * [@chavyleung](https://github.com/chavyleung)
-  * [@NobyDa](https://github.com/NobyDa)
-  * [@zZPiglet](https://github.com/zZPiglet)
-  * [@yichahucha](https://github.com/yichahucha)
-  * [@Peng-YM](https://github.com/Peng-YM)
   * [@app2smile](https://github.com/app2smile)
-  * [@MuTu](https://github.com/githubdulong)
+  * [@BlveRiv](https://github.com/Maasea)
+  * [@chavyleung](https://github.com/chavyleung)
+  * [@Choler](https://github.com/Choler)
   * [@fengchang](https://github.com/fengchang)
-  * [@Loon0x00](https://github.com/Loon0x00)
-  * [@Tartarus2014](https://github.com/Tartarus2014)
   * [@Hackl0us](https://github.com/Hackl0us)
   * [@Koolson](https://github.com/Koolson)
+  * [@Loon0x00](https://github.com/Loon0x00)
   * [@LucaLin](https://github.com/LucaLin233)
+  * [@mieq](https://github.com/mieqq)
+  * [@MuTu](https://github.com/githubdulong)
+  * [@NobyDa](https://github.com/NobyDa)
+  * [@notoaus](https://github.com/notoaus)
+  * [@Peng-YM](https://github.com/Peng-YM)
   * [@Shawn](https://github.com/KOP-XIAO)
   * [@shindgewongxj](https://github.com/shindgewongxj)
   * [STASH NETWORKS LIMITED](https://github.com/STASH-NETWORKS-LIMITED)
   * [@viannalau](https://github.com/StashNetworks)
-  * [@BlveRiv](https://github.com/Maasea)
-  * [@Choler](https://github.com/Choler)
+  * [@Tartarus2014](https://github.com/Tartarus2014)
+  * [@yichahucha](https://github.com/yichahucha)
+  * [@zZPiglet](https://github.com/zZPiglet)
